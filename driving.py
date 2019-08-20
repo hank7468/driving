@@ -13,3 +13,5 @@ elif country == '美國':
 		print('你有考駕照的資格')
 	else:
 		print('你尚未具有考駕照的資格')
+else:
+	print('本程式只能回答有關台灣和美國的規範')
